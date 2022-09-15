@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CiuBiu
 - 👀 I’m interested in C#, Xamarin & Unity
 - 🌱 currently learning C#
-- 💞️ looking to find intership
+- 💞️ looking for an intership
 - 📫 in Warsaw
 
 <!---
